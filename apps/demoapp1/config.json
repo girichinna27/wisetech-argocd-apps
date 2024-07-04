@@ -1,0 +1,6 @@
+{
+"name": "mbe",
+ "repoURL": "https://github.com/girichinna27/wisetech-k8s-repo.git",
+ "targetRevision": "master",
+ "cluster": "https://kubernetes.default.svc"
+}
